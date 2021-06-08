@@ -1,6 +1,2 @@
-# include<stdio.h>
-int main()
-{
-printf("hello");
-printf("\n not commiting just added thing not directly commited to main branch.");
-}
+This is a web designing and development project made by me to participate in a Web designing competition.
+TOPIC - INTERNET OF THINGS AND HEALTHCARE - CURRENT SCENARIO
